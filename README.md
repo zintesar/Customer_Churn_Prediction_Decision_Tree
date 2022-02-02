@@ -1,5 +1,5 @@
 # Machine Learning: Predicting Customer Churn using Decision Tree Classifier
-This Dataset contains the step-by-step process of building a Decision Tree Classifier model to predict Customer Churn based on provided information form the dataset. The dataset used in this project was collected from the [Datacamp course](https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python)
+This Repository contains the step-by-step process of building a Decision Tree Classifier model to predict Customer Churn based on provided information form the dataset. The dataset used in this project was collected from the [Datacamp course](https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python)
 
 What is customer churn?
 <br>It is when an existing customer, user, player, subscriber or any kind of return client stops doing business or ends the relationship with a company.
